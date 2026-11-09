@@ -1,0 +1,6 @@
+{
+  "name": "mmc pro",
+  "description": "لوحة تحكم وتداول بوت المراجحة الذكي على شبكة Solana للاتصال المباشر وفحص فرق الأسعار بين Raydium و Meteora بالوقت الحقيقي وتنبيهات تليجرام",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
